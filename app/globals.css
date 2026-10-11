@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  /* Pastikan nama file gambarmu di folder public sesuai (background.jpg) */
+  --background-image-home: url('/background.jpg');
+  
+  /* Menggunakan warna abu-abu (gray) transparan sesuai keinginanmu */
+  --color-brown: rgba(100, 116, 139, 0.5); 
+}
